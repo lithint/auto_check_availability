@@ -3,7 +3,7 @@
     'version': '1.1',
     'author': 'Kyle Waid',
     'category': 'Sales Management',
-    'depends': ['stock'],
+    'depends': ['stock', 'procurement_jit'],
     'website': 'https://www.gcotech.com',
     'description': """ 
     """,
